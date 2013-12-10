@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://robotstatus.github.io/sitemap.xml 
